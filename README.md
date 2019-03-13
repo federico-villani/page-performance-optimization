@@ -2,7 +2,7 @@
 
 ## Table of contents
   - **SEO** 🧐
-  - **Framework development** / **VanillaJS** / **Custom** development 💀 ☠
+  - **Framework development** / **VanillaJS** / **Custom development** 💀 ☠
     - detached frontend
     - cms theming
     - use built in functionality of the framework vs custom
