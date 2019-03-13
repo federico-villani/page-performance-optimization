@@ -6,6 +6,8 @@
     - detached frontend
     - cms theming
     - use built in functionality of the framework vs custom
+    - unique source of truth
+    - single responsibility for functions/components
   - Best Practices
     - JS
         - javascript modules
@@ -13,6 +15,8 @@
         - how to import external libraries
         - Add/Remove event listener and bindings
         - Avoid infinite loops
+        - unreachable code
+       
     - CSS
         - webfonts
         - iconfont SVG vs immagini (icomoon) 
