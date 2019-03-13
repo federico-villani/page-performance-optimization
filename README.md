@@ -1,8 +1,8 @@
 # Page optimization 🤷‍
 
 ## Table of contents
-  - SEO 🧐
-  - Framework development / VanillaJS / Custom development 💀 ☠
+  - *SEO* 🧐
+  - _Framework development_ / *_VanillaJS_* / _*Custom*_ development 💀 ☠
     - detached frontend
     - cms theming
     - use built in functionality of the framework vs custom
