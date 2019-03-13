@@ -39,6 +39,7 @@
     - Webpack/Parcel
     - Gulp/Grunt
     - Babel
+    - ESLINT
     - Dev/Production ENV
       - .env files
   - Extra
