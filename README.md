@@ -8,6 +8,8 @@
     - use built in functionality of the framework vs custom
     - unique source of truth
     - single responsibility for functions/components
+    
+    
   - **Best Practices** 🤓
     - JS
         - javascript modules
@@ -33,21 +35,28 @@
       - dns prefetch and preconnect
       - gzip/ file compression
       - SQL query opt
+      
+      
   - **Minification / Uglify** 👹
     - drop_console, remove comments, uglify, .map files
     - concat css and combineMQ
     - image optimization ( manual and automatic )
+    
+    
   - **DevTools** 🤖
     - Lighthouse
       - throttling
     - PageSpeed modules server side (apache/nginx)
     - SpeedTest tools online
+      - [WebPageTest](https://www.webpagetest.org)
+    - Dev/Production ENV & Build
+      - .env files
     - Webpack/Parcel
     - Gulp/Grunt
     - Babel
     - ESLINT
-    - Dev/Production ENV
-      - .env files
+    
+    
   - **Extra** 🤟
     - Thanos.js
 
