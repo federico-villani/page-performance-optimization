@@ -1,14 +1,14 @@
 # Page optimization 🤷‍
 
 ## Table of contents
-  - *SEO* 🧐
-  - _Framework development_ / *_VanillaJS_* / _*Custom*_ development 💀 ☠
+  - **SEO** 🧐
+  - **Framework development** / **VanillaJS** / **Custom** development 💀 ☠
     - detached frontend
     - cms theming
     - use built in functionality of the framework vs custom
     - unique source of truth
     - single responsibility for functions/components
-  - Best Practices 🤓
+  - **Best Practices** 🤓
     - JS
         - javascript modules
         - async js / defer
@@ -33,11 +33,11 @@
       - dns prefetch and preconnect
       - gzip/ file compression
       - SQL query opt
-  - Minification / Uglify 👹
+  - **Minification / Uglify** 👹
     - drop_console, remove comments, uglify, .map files
     - concat css and combineMQ
     - image optimization ( manual and automatic )
-  - DevTools 🤖
+  - **DevTools** 🤖
     - Lighthouse
       - throttling
     - PageSpeed modules server side (apache/nginx)
@@ -48,7 +48,7 @@
     - ESLINT
     - Dev/Production ENV
       - .env files
-  - Extra 🤟
+  - **Extra** 🤟
     - Thanos.js
 
 
