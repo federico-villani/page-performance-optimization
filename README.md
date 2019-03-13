@@ -2,13 +2,13 @@
 
 ## Table of contents
   - **SEO** 🧐
+  
   - **Framework development** / **VanillaJS** / **Custom development** 💀 ☠
     - detached frontend
     - cms theming
     - use built in functionality of the framework vs custom
     - unique source of truth
     - single responsibility for functions/components
-    
     
   - **Best Practices** 🤓
     - JS
@@ -18,7 +18,6 @@
         - Add/Remove event listener and bindings
         - Avoid infinite loops
         - unreachable code
-       
     - CSS
         - webfonts
         - iconfont SVG vs immagini (icomoon) 
@@ -36,12 +35,10 @@
       - gzip/ file compression
       - SQL query opt
       
-      
   - **Minification / Uglify** 👹
     - drop_console, remove comments, uglify, .map files
     - concat css and combineMQ
     - image optimization ( manual and automatic )
-    
     
   - **DevTools** 🤖
     - Lighthouse
@@ -55,7 +52,6 @@
     - Gulp/Grunt
     - Babel
     - ESLINT
-    
     
   - **Extra** 🤟
     - Thanos.js
