@@ -2,14 +2,12 @@
 
 ## Table of contents
   - **SEO** 🧐
-  
   - **Framework development** / **VanillaJS** / **Custom development** 💀 ☠
     - detached frontend
     - cms theming
     - use built in functionality of the framework vs custom
     - unique source of truth
-    - single responsibility for functions/components
-    
+    - single responsibility for functions/components    
   - **Best Practices** 🤓
     - JS
         - javascript modules
@@ -33,13 +31,11 @@
       - Cache ( client and server side )
       - dns prefetch and preconnect
       - gzip/ file compression
-      - SQL query opt
-      
+      - SQL query opt  
   - **Minification / Uglify** 👹
     - drop_console, remove comments, uglify, .map files
     - concat css and combineMQ
     - image optimization ( manual and automatic )
-    
   - **DevTools** 🤖
     - Lighthouse
       - throttling
@@ -52,7 +48,6 @@
     - Gulp/Grunt
     - Babel
     - ESLINT
-    
   - **Extra** 🤟
     - Thanos.js
 
