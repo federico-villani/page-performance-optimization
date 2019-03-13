@@ -11,6 +11,8 @@
         - javascript modules
         - async js / defer
         - how to import external libraries
+        - Add/Remove event listener and bindings
+        - Avoid infinite loops
     - CSS
         - webfonts
         - iconfont SVG vs immagini (icomoon) 
