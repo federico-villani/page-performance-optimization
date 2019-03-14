@@ -1,4 +1,32 @@
 {
+  "name": "page-performance-optimization",
+  "version": "1.0.0",
+  "private": true,
+  "homepage": "https://federico-villani.github.io/page-performance-optimization/",
+  "description": "A wiki for AMA workshop to help devs to improve their page performance and speed",
+  "author": "Accenture AMA - Milano",
+  "contributors": [
+    {
+      "name": "Federico Villani"
+    }
+  ],
+  "files": [
+    "CHANGELOG.md",
+    "LICENSE.txt",
+    "package.json",
+    "dist/",
+    "modernizr-config.json",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/federico-villani/page-performance-optimization.git"
+  },
+  "bugs": "https://github.com/federico-villani/page-performance-optimization/issues",
+  "scripts": {
+    "build": "gulp build",
+    "test": "gulp archive && mocha --require babel-core/register --reporter spec --timeout 5000"
+  },
   "devDependencies": {
     "apache-server-configs": "^3.1.0",
     "archiver": "^3.0.0",
@@ -44,25 +72,11 @@
       "test": "test"
     }
   },
-  "homepage": "https://html5boilerplate.com/",
   "license": "MIT",
-  "name": "html5-boilerplate",
-  "scripts": {
-    "build": "gulp build",
-    "test": "gulp archive && mocha --require babel-core/register --reporter spec --timeout 5000"
-  },
-  "version": "7.0.1",
-  "description": "A professional front-end template for building fast, robust, and adaptable web apps or sites.",
-  "files": [
-    "CHANGELOG.md",
-    "LICENSE.txt",
-    "package.json",
-    "dist/",
-    "modernizr-config.json",
-    "README.md"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/h5bp/html5-boilerplate.git"
-  }
+  "keywords": [
+    "AMA Workshop",
+    "Page Performance",
+    "Page Performance Improvement",
+    "Page speed test"
+  ]
 }
