@@ -23,7 +23,7 @@
         - iconfont SVG vs immagini (icomoon) 
     - Misc
       - CDN
-      - reduce http request
+      - reduce http requests
     - Structure 
         - Lazy load
         - Critical Path and Render Blocking Resources (CSS + JS)
@@ -63,7 +63,7 @@
       - Babel
       - ESLINT
   - **Extra** 🤟
-    - Thanos.js
+    - [Thanos.js](https://thanosjs.org)
 
 
 ## Contributing
