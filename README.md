@@ -58,6 +58,7 @@
         - painting
         - other 
         - idle
+      - IDE code inspections
       - PageSpeed modules server side (apache/nginx)
       - SpeedTest tools online
         - [WebPageTest](https://www.webpagetest.org)
