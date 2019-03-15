@@ -34,6 +34,7 @@
     - CSS
       - concatenate your CSS files into one file
       - Use media queries to mark some CSS resources as non-render blocking
+      - When using SASS, avoid too many nested levels as in the compiled version the code will be duplicated too many times
       - webfonts
       - iconfont/SVG vs immagini (icomoon) 
     - Server side  
