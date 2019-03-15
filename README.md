@@ -43,7 +43,7 @@
       - SQL query opt  
   - **Minification / Uglify** 👹
     - drop_console, remove comments, uglify, .map files
-    - concat css and combineMQ
+    - concat css and combine media queries
     - image optimization ( manual and automatic )
   - **DevTools** 🤖
     - for testing purposes
