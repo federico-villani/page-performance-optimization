@@ -12,25 +12,30 @@
     - one way data-binding
     - single responsibility for functions/components    
   - **Best Practices** 🤓
-    - JS
-        - javascript modules
-        - how to import external libraries
-          - CDN
-          - async js / defer
-        - Add/Remove event listener and bindings
-        - Avoid infinite loops
-        - Avoid unreachable code
-    - CSS
-        - webfonts
-        - iconfont/SVG vs immagini (icomoon) 
-    - Misc
-      - reduce http requests
     - Structure 
         - Lazy load
         - Critical Path and Render Blocking Resources (CSS + JS)
         - Avoid redirect and 404
         - Mobile first ?
         - first paint of the page vs content 
+        - reduce http requests
+    - JS
+      - javascript modules
+      - how to import external libraries
+        - CDN
+        - async js / defer
+          ```<script async src="foobar.js"></script> ```
+        - Move your scripts to the bottom of the page right before your </body> tag.
+        - Concatenate your JS files into one file (with HTTP/2 this is no longer as important)
+        - HTTP/2
+      - Add/Remove event listener and bindings
+      - Avoid infinite loops
+      - Avoid unreachable code
+    - CSS
+      - concatenate your CSS files into one file
+      - Use media queries to mark some CSS resources as non-render blocking
+      - webfonts
+      - iconfont/SVG vs immagini (icomoon) 
     - Server side  
       - Cache ( client and server side )
       - dns prefetch and preconnect
