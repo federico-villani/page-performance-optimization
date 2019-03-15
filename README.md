@@ -2,27 +2,28 @@
 
 ## Table of contents
   - **SEO** 🧐
+    - being SEO compliant usually means you used the standards properly
   - **Framework development** / **VanillaJS** / **Custom development** 💀 ☠
     - detached frontend
     - cms theming
     - use built in functionality of the framework vs custom
-    - unique source of truth
+    - one source of truth (unique)
     - one way data-flow
     - one way data-binding
     - single responsibility for functions/components    
   - **Best Practices** 🤓
     - JS
         - javascript modules
-        - async js / defer
         - how to import external libraries
+          - CDN
+          - async js / defer
         - Add/Remove event listener and bindings
         - Avoid infinite loops
-        - unreachable code
+        - Avoid unreachable code
     - CSS
         - webfonts
-        - iconfont SVG vs immagini (icomoon) 
+        - iconfont/SVG vs immagini (icomoon) 
     - Misc
-      - CDN
       - reduce http requests
     - Structure 
         - Lazy load
